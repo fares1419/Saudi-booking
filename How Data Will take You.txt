@@ -1,0 +1,68 @@
+How Data Will take You to Saudi Arabia without visa
+
+for a lot of people Saudi Arabia is virgin land, so I will take them in this blog for a small  tour in Saudi Arabia, without visa!
+
+To help who want to visit Saudi, data saved me as usual. This dataset was on on Kaggle. It answered these questions:
+
+Which cities has the most bookings in Saudi Arabia?
+Is price related to review?
+What is the difference between facilities in high price hotel and low price hotel?
+
+
+## which cities have the most bookings in Saudi Arabia?
+(PHOTO1)
+
+Unsurprisingly, the cities have the most bookings in Saudi Arabia are Riyadh and Jeddah, I was sure enough because Riyadh is the capital and the populated city in Saudi Arabia with 4,205,961.
+And Jeddah is the second populated city with 2,867,446,moreover, the closest ports to Makkah and Medina, the two holiest sites in Islam.
+
+
+(Makkah pic)
+
+
+
+
+(photo2 and 3)
+Although the highest cost price in Saudi Arabia is in Riyadh and Jeddah (2), their frequent price lower than other cities.
+In my opinion this because Riyadh and Jeddah have more hotels then others.
+
+
+(photo4 and 5)
+
+There is no big influence of the far from the city center on prices in Riyadh and Jeddah, and vice versa for other cities, maybe that is because of the good services in Riyadh and Jeddah not just in the city center.
+
+
+
+
+
+
+# There is no big influence of the far from the city center on prices in Riyadh and Jeddah, and vice versa for other cities, maybe that is because of the good services in Riyadh and Jeddah not just in the city center.
+
+
+
+
+(photo 6 and 7)
+I consider hotel 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+https://worldpopulationreview.com/countries/cities/saudi-arabia
+https://www.numbeo.com/cost-of-living/country_result.jsp?country=Saudi+Arabia
